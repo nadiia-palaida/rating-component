@@ -1,0 +1,17 @@
+.wrap {
+  height: 100vh;
+  width: 100vw;
+  background: $bg-color;
+}
+
+.modal {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.circle-button {
+  border-radius: 50%;
+  background: $circle-button;
+}
